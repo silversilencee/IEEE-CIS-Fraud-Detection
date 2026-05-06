@@ -101,7 +101,7 @@ Baisholan et al. (2025), A Systematic Review of Machine Learning in Credit Card 
 ## Authors
 A group project for CA683 Data Mining at Dublin City University, April 2026.
 
-Tharakesh Aravindan S.T: LinkedIn
+Tharakesh Aravindan S.T
 Eoin Delhunty
 Suman Neupane
 Rehoboth Salako
